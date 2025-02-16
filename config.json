@@ -1,0 +1,11 @@
+{
+    "name": "Testssss",
+    "symbol": "Tests",
+    "description": "A fun meme coin on Solana.",
+    "image": "https://raw.githubusercontent.com/YourGitHubUser/YourRepo/main/logo.png",
+    "external_url": "https://example.com",
+    "attributes": [
+      { "trait_type": "Category", "value": "Meme" }
+    ]
+  }
+  
