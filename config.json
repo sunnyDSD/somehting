@@ -1,25 +1,22 @@
 {
-  "name": "Testssss",
-  "symbol": "Tests",
-  "description": "A fun meme coin on Solana.",
-  "image": "https://raw.githubusercontent.com/sunnyDSD/somehting/main/oiiaioooooia-c35ocqaj.png",
-  "external_url": "https://example.com",
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "This is MyToken, a new token on Solana.",
+  "image": "https://your-image-link.com/token.png",
+  "external_url": "https://your-website.com",
+  "seller_fee_basis_points": 500,
   "attributes": [
-    { "trait_type": "Category", "value": "Meme" }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/sunnyDSD/somehting/main/oiiaioooooia-c35ocqaj.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "7BCG8GhfHX1dDHWH8pnPomF9xZZ4stvciLw8QRQHXZn",
-        "share": 100
-      }
-    ]
-  }
+    {
+      "trait_type": "Creator",
+      "value": "Fein"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://your-website.com"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://twitter.com/yourhandle"
+    }
+  ]
 }
