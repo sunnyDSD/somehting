@@ -1,22 +1,11 @@
 {
-  "name": "MyToken",
-  "symbol": "MTK",
-  "description": "This is MyToken, a new token on Solana.",
+  "name": "OiiaioooiAI",
+  "symbol": "OIA",
+  "description": "OiiaioooiAI (OIA Coin) is the first AI-powered meme coin that merges the cuteness of cats with the power of artificial intelligence.",
   "image": "https://raw.githubusercontent.com/sunnyDSD/somehting/main/oiiaioooooia-c35ocqaj.png",
-  "external_url": "https://your-website.com",
-  "seller_fee_basis_points": 500,
-  "attributes": [
-    {
-      "trait_type": "Creator",
-      "value": "Fein"
-    },
-    {
-      "trait_type": "Website",
-      "value": "https://your-website.com"
-    },
-    {
-      "trait_type": "Twitter",
-      "value": "https://twitter.com/yourhandle"
-    }
-  ]
+  "extensions": {
+    "website": "https://oiacat.boats/",
+    "twitter": "https://x.com/Oiiaiooai_AI",
+    "telegram": "https://t.me/+Nh7rJreF-O03Nzcx"
+  }
 }
